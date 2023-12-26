@@ -1,5 +1,3 @@
-#Functional and Logical Programming Laboratory Problems
-
 Welcome to the repository dedicated to my exploration of Prolog in the Functional and Logical Programming laboratory! 🚀
 
 Overview:
