@@ -1,3 +1,4 @@
+%This Prolog program, delete_decreasing, aims to Delete elements from a list based on certain conditions of decreasing order.
 %delete_decreasing(l1,..,ln,flag,c1,..cm,rez)
 delete_decreasing([],_,[]).
 delete_decreasing([A],1,[A]).
